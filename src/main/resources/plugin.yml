@@ -1,0 +1,5 @@
+name: SilkShears
+author: DeBe
+version: 1.0.0
+main: nukkitplugin.silkshears.SilkShears
+api: 1.0.0
